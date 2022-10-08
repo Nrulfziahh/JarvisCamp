@@ -1,0 +1,4 @@
+Pada pertemuan kedua ini banyak yang saya pelajari, seperti mengetahui apa itu php? bagaimana penulisan syntak nya? dan tag apa yang digunakan?
+Lalu saya juga mempelajari tentang variabel dan bagaimana cara penulisan variabel yang benar.
+Saya juga mempelajari tipe data apa saja yang digunakan pada PHP. Seperti integer yang berbentuk bilangan bulat, float yang berbentuk pecahan, boolean yang menyatakan true and false, array yang digunakan untuk menampung beberapa nilai.
+Saya juga belajar fungsi, beberapa operator yang digunakan pada PHP (pembanding, aritmatika), lalu codisional statemant(if else), dan looping atau perulangan (ada dua macam yaitu for and while).
